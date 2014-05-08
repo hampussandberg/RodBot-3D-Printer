@@ -25,6 +25,7 @@ The frame blocks are designed to work with this [Heavy duty Vibration damper](ht
 I have made a 3D PDF of the printer available for [download](http://www.thingiverse.com/download:476394)  
 
 ##Updates:  
+**2014-05-08:** All files are available on [GitHub](https://github.com/hampussandberg/RodBot) along with some development and some old files as well.  
 **2014-04-30:** I recently replaced my J-Head hotend with an [E3D hotend](http://e3d-online.com/E3D-HotEnds) but I needed to widen the x assembly by 5 mm in order to fit it. The new parts for the wider x-assembly are:  
 - X Carriage Rev 3  
 - X-End Idler Clamp Rev 2  
