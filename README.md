@@ -25,6 +25,16 @@ The frame blocks are designed to work with this [Heavy duty Vibration damper](ht
 I have made a 3D PDF of the printer available for [download](http://www.thingiverse.com/download:476394)  
 
 ##Updates:  
+**2014-05-12:** Modified the Y ends to have a easier and more robust clamp for the belt. It is now easier to adjust the tension as it's just a matter of turning to screws. This also removes the problem I had with the plastic holding the belt cracking. The new parts are:  
+- Y Smooth Rod Ends - Rev 2
+- Y Belt Holder  
+Hardware needed:  
+- 2 pcs M3x25mm or longer
+- 2 pcs M3x16mm
+- 4 pcs M3 Lock nut
+- 2 pcs M3 nut
+- 8 pcs M3 washer  
+Some photos of the assembly: [Photo 1](https://raw.githubusercontent.com/hampussandberg/RodBot/master/Renderings%20-%20Images/Photo%202014-05-12%2023%2004%2008.jpg), [Photo 2](https://raw.githubusercontent.com/hampussandberg/RodBot/master/Renderings%20-%20Images/Photo%202014-05-12%2023%2003%2046.jpg), [Photo 3](https://raw.githubusercontent.com/hampussandberg/RodBot/master/Renderings%20-%20Images/Photo%202014-05-12%2023%2003%2052.jpg).  
 **2014-05-08:** All files are available on [GitHub](https://github.com/hampussandberg/RodBot) along with some development and some old files as well.  
 **2014-04-30:** I recently replaced my J-Head hotend with an [E3D hotend](http://e3d-online.com/E3D-HotEnds) but I needed to widen the x assembly by 5 mm in order to fit it. The new parts for the wider x-assembly are:  
 - X Carriage Rev 3  
