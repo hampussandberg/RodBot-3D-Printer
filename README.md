@@ -26,13 +26,13 @@ I have made a 3D PDF of the printer available for [download](http://www.thingive
 
 ##Updates:  
 **2014-05-12:** Modified the Y ends to have a easier and more robust clamp for the belt. It is now easier to adjust the tension as it's just a matter of turning to screws. This also removes the problem I had with the plastic holding the belt cracking. The new parts are:  
-- Y Smooth Rod Ends - Rev 2
+- Y Smooth Rod Ends - Rev 2  
 - Y Belt Holder  
 Hardware needed:  
-- 2 pcs M3x25mm or longer
-- 2 pcs M3x16mm
-- 4 pcs M3 Lock nut
-- 2 pcs M3 nut
+- 2 pcs M3x25mm or longer  
+- 2 pcs M3x16mm  
+- 4 pcs M3 Lock nut  
+- 2 pcs M3 nut  
 - 8 pcs M3 washer  
 Some photos of the assembly: [Photo 1](https://raw.githubusercontent.com/hampussandberg/RodBot/master/Renderings%20-%20Images/Photo%202014-05-12%2023%2004%2008.jpg), [Photo 2](https://raw.githubusercontent.com/hampussandberg/RodBot/master/Renderings%20-%20Images/Photo%202014-05-12%2023%2003%2046.jpg), [Photo 3](https://raw.githubusercontent.com/hampussandberg/RodBot/master/Renderings%20-%20Images/Photo%202014-05-12%2023%2003%2052.jpg).  
 **2014-05-08:** All files are available on [GitHub](https://github.com/hampussandberg/RodBot) along with some development and some old files as well.  
