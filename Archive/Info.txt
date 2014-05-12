@@ -1,0 +1,38 @@
+Upgraded version of Portabee
+
+Some parts might need to be rotated so they are printed correctly.  
+
+Works nicely with these vibration dampers http://www.thingiverse.com/thing:94279  
+
+**UPDATE Dec 12 - 2013**  
+Working on the x-assembly right now with a new extruder mount which hopefully will be more stable than the current one. I've also designed some new end stops based on A1301 hall sensors, just waiting for the PCB's to arrive so I can start using them. For the x-assembly I've been using SC8UU linear bearings found on eBay. They seem to be quite sturdy! I will update more once I receive some more bearings so that I can start assembling the x-assembly.  
+I've exported a 3D-PDF available in the download section or here: http://www.thingiverse.com/download:377081  
+
+**UPDATE Nov 13 - 2013**   
+I have now printed and assembled a version which works. Some small changes has been made to make all the parts more robust so any real pictures of the machine might differ a bit from the STL-models. Works extremely well and feels very strong which was the main reason I started with this upgrade. As it stands now only the X-assembly is still the original from Portabee but I intend on upgrading it as well which will make the whole machine "new"!  
+
+I have now uploaded all the new parts that I use. Additional hardware is required:  
+- M6 threaded rods and 6mm smooth rods for Y-assembly + nuts and washers  
+- M10 threaded rods for the main frame + nuts and washers  
+- Mostly M3 hex screws of various length (10, 12, 16, + some more)  
+- M8 threaded rods to mount the Y-assembly on  
+
+Total build area is now 175x150x150mm (X Y Z).  
+I will update with a complete list when I have more time!  
+
+**UPDATE Oct 2 - 2013**  
+After designing the frame i realized how unstable the printer was in it self so I started working on a new base which is part of the frame (the blue pieces in the rendering). I noticed the y-assembly had some cracks in the parts so I designed a new single-block version and I also replaced the standard heatbed with a reprap one to get a bigger build area. (Basically all parts under the red heatbed in the rendering)  
+
+**NOTE:**  
+I'm still designing the parts and haven't printed them yet but here are some features the upgraded printer will have:  
+- Bigger build area (200x200)  
+- More stable y-assembly  
+- Hall sensor endstops using A1301 for easier adjustment  
+- Variable width for other types of build platform. Change the length of the rods for your needs  
+- M8 threaded rods for y-assembly instead of M6  
+- Electronics holder with cover (green part on the left side in rendering)  
+- Probably more stuff once I'm done with the above  
+
+**Feedback and/or requests are gladly received!**  
+
+Parts with name OLD_nnn are parts from the old design where the original printer parts were placed in a holder on the metal frame.
