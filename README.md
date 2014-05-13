@@ -22,7 +22,7 @@ Some of the parts needed:
 
 The frame blocks are designed to work with this [Heavy duty Vibration damper](http://www.thingiverse.com/thing:94279 )  
 
-I have made a 3D PDF of the printer available for [download](http://www.thingiverse.com/download:476394)  
+I have made a 3D PDF of the printer available for [download](https://github.com/hampussandberg/RodBot-3D-Printer/raw/master/Renderings%20-%20Images/RodBot%20Assembly%20Rev%202.1.PDF)  
 
 ##Updates:  
 **2014-05-13:** The Marlin configuration I'm using with the RAMPS controller is available on [Github](https://github.com/hampussandberg/RodBot-Marlin-Ramps). I've also moved old compenent no longer used on the newest version of RodBot to an archive folder [here](https://github.com/hampussandberg/RodBot-3D-Printer/tree/master/Archive).    
