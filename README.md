@@ -40,7 +40,7 @@ Some photos of the assembly: [Photo 1](https://raw.githubusercontent.com/hampuss
 
 **2014-05-08:** All files are available on [GitHub](https://github.com/hampussandberg/RodBot-3D-Printer) along with some development and some old files as well.  
 
-**2014-04-30:** I recently replaced my J-Head hotend with an [E3D hotend](http://e3d-online.com/E3D-HotEnds) but I needed to widen the x assembly by 5 mm in order to fit it. The new parts for the wider x-assembly are:  
+**2014-04-30:** I recently replaced my J-Head hotend with an [E3D hotend](http://e3d-online.com/) but I needed to widen the x assembly by 5 mm in order to fit it. The new parts for the wider x-assembly are:  
 - X Carriage Rev 3  
 - X-End Idler Clamp Rev 2  
 - X-End Idler Rev 2  
