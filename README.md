@@ -14,8 +14,8 @@ Some of the parts needed:
 * M8 threaded rods + nuts and washers  
 * M6 threaded rods + nuts and washers  
 * M8 Smooth rods  
-* SC8UU bearing blocks  
-* LM8UU bearings  
+* 4x SC8UU bearing blocks  
+* 4x LM6UU bearings  
 * RepRap PCB Heatbed, I'm using [this one](http://reprap.me/heatbed/mk2-231.html)  
 
 **Note:** Some parts might need to be rotated in order to print them.  
