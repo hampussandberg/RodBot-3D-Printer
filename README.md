@@ -13,18 +13,22 @@ Some of the parts needed:
 * M10 threaded rods + nuts and washers  
 * M8 threaded rods + nuts and washers  
 * M6 threaded rods + nuts and washers  
-* M8 Smooth rods  
-* 4x SC8UU bearing blocks  
-* 4x LM6UU bearings  
+* 8 mm Smooth rods  
+* SC8UU bearing blocks  
 * RepRap PCB Heatbed, I'm using [this one](http://reprap.me/heatbed/mk2-231.html)  
 
 **Note:** Some parts might need to be rotated in order to print them.  
 
 The frame blocks are designed to work with this [Heavy duty Vibration damper](http://www.thingiverse.com/thing:94279 )  
 
-I have made a 3D PDF of the printer available for [download](https://github.com/hampussandberg/RodBot-3D-Printer/raw/master/Renderings%20-%20Images/RodBot%20Assembly%20Rev%202.1.PDF)  
+I have made a 3D PDF of the printer available for [download](https://github.com/hampussandberg/RodBot-3D-Printer/raw/master/Renderings%20-%20Images/RodBot%20Assembly%20Rev%203.PDF)  
 
 ##Updates:  
+**2014-05-30:** The Y-axis is now modified to use 8 mm smooth rods so that those are the only rods used for the whole printer and SC8UU are used everywhere. I also modifided the design of the Y-motor mount to be able to print it flat (prints faster) and tried to make it more robust. I recommend printing the Y-motor mount at 100% infill. The new parts are:  
+- Y Motor Mount Rev 2  
+- Y Smooth Rod Ends - Rev 2.1  
+- Y Belt Holder Rev 2  
+
 **2014-05-13:** The Marlin configuration I'm using with the RAMPS controller is available on [Github](https://github.com/hampussandberg/RodBot-Marlin-Ramps). I've also moved old compenent no longer used on the newest version of RodBot to an archive folder [here](https://github.com/hampussandberg/RodBot-3D-Printer/tree/master/Archive).    
 
 **2014-05-12:** Modified the Y ends to have a easier and more robust clamp for the belt. It is now easier to adjust the tension as it's just a matter of turning to screws. This also removes the problem I had with the plastic holding the belt cracking. The new parts are:  
