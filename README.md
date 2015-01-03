@@ -24,6 +24,13 @@ The frame blocks are designed to work with this [Heavy duty Vibration damper](ht
 I have made a 3D PDF of the printer available for [download](https://github.com/hampussandberg/RodBot-3D-Printer/raw/master/Renderings%20-%20Images/RodBot%20Assembly%20Rev%203.PDF)  
 
 ##Updates:  
+**2015-01-03:** Some changes have been made since the last update. The biggest are:  
+- New heatbed: [Helios Heat Bed kit](http://www.panucatt.com/product_p/hbp200.htm)  
+- New extruder: [Bulldog XL Extruder](http://www.reprapdiscount.com/mechanics/64-bulldog-xl-extruder.html)  
+- Changed Z-axis threaded rods to [trapezoidal lead screw](http://www.ebay.com/itm/TR8x1-5Dx180mm-1-5mm-Pitch-Trapezoidal-Acme-Ballscrew-Leadscrew-Fine-Pitch-/221553098138?pt=UK_BOI_Metalworking_Milling_Welding_Metalworking_Supplies_ET&hash=item339597fd9a)  
+- Adjustable belt tensioner for the X-axis  
+All these changes has made the printer better and more importantly it seems like it's more reliable. All the new files are available on the [Github page](https://github.com/hampussandberg/RodBot-3D-Printer).  
+
 **2014-05-30:** The Y-axis is now modified to use 8 mm smooth rods so that those are the only rods used for the whole printer and SC8UU are used everywhere. I also modifided the design of the Y-motor mount to be able to print it flat (prints faster) and tried to make it more robust. I recommend printing the Y-motor mount at 100% infill. The new parts are:  
 - Y Motor Mount Rev 2  
 - Y Smooth Rod Ends - Rev 2.1  
